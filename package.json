@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "ghost": "^2.38.2"
+    "ghost": "^3.10.0"
   },
   "devDependencies": {
     "knex-migrator": "^3.4.6"
